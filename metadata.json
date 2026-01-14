@@ -1,0 +1,8 @@
+
+{
+  "name": "EyeControl Mouse System",
+  "description": "An advanced hands-free interface using MediaPipe FaceMesh for precise gaze tracking, blink-click detection, and gesture-based computer interaction.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
